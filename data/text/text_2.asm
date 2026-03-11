@@ -283,7 +283,7 @@ _SaffronCityPokecenterGuyText2::
 	line "afsted! Vi kan"
 	cont "nu gå ud"
 	cont "sikkert igen!"
-	cont "That's great!"
+	cont "Det er fantastisk!"
 	done
 
 _CeladonCityHotelText::

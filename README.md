@@ -1,6 +1,6 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-**Learn Danish with Pokémon.** — This is a disassembly of Pokémon Red and Blue, fully translated into **Danish**. Play the classic Game Boy games in Danish to practise the language.
+**Learn Danish with Pokémon.** — This is a disassembly of Pokémon Red and Blue, fully translated into **Danish** (99% complete). Play the classic Game Boy games in Danish to practise the language.
 
 ## ROMs (clean build of this repo)
 
