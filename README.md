@@ -87,6 +87,29 @@ This project is for educational and personal use. Pokémon and related names are
 
 ---
 
+## Publish to GitHub
+
+If you want to put this project on GitHub:
+
+1. On GitHub, click **New repository**. Choose a name (e.g. `pokered-da`), leave it empty (no README/license).
+2. In the project folder, add the remote and push (use your repo URL):
+
+   ```bash
+   git remote add origin https://github.com/YOUR_USERNAME/pokered-da.git
+   git branch -M main
+   git push -u origin main
+   ```
+
+   If you use SSH: `git remote add origin git@github.com:YOUR_USERNAME/pokered-da.git`
+
+3. Before the first push, set your Git identity if needed:
+   ```bash
+   git config user.name "Your Name"
+   git config user.email "your@email.com"
+   ```
+
+---
+
 ## Danish version
 
 See [README_DA.md](README_DA.md) for the same instructions in Danish.

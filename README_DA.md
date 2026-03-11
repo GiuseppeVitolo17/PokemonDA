@@ -87,6 +87,29 @@ Dette projekt er til undervisning og personlig brug. Pokémon og tilhørende nav
 
 ---
 
+## Publicer på GitHub
+
+Hvis du vil lægge projektet på GitHub:
+
+1. På GitHub: klik **New repository**. Vælg et navn (f.eks. `pokered-da`), lad den være tom (ingen README/licens).
+2. I projektmappen: tilføj remote og push (brug din repo-URL):
+
+   ```bash
+   git remote add origin https://github.com/DIT_BRUGERNAVN/pokered-da.git
+   git branch -M main
+   git push -u origin main
+   ```
+
+   Ved SSH: `git remote add origin git@github.com:DIT_BRUGERNAVN/pokered-da.git`
+
+3. Før første push: sæt din Git-identitet evt.:
+   ```bash
+   git config user.name "Dit Navn"
+   git config user.email "din@email.dk"
+   ```
+
+---
+
 ## English version
 
 See [README.md](README.md) for the same instructions in English.
