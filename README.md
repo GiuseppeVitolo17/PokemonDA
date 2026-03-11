@@ -1,8 +1,50 @@
-# Pokémon Red/Blue — Danish (Disassembly)
+# Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a **disassembly** of Pokémon Red and Blue (Game Boy), fully translated into **Danish**. It builds into playable ROMs (`pokered.gbc`, `pokeblue.gbc`) that you can run in any Game Boy (Color) emulator.
+This is a disassembly of Pokémon Red and Blue, fully translated into **Danish**. It builds the following ROMs:
+
+- **pokered.gbc** — Pokémon Red (Danish) `sha1: (clean build of this repo)`
+- **pokeblue.gbc** — Pokémon Blue (Danish) `sha1: (clean build of this repo)`
+- **pokeblue_debug.gbc** — Pokémon Blue debug build (Danish) `sha1: (clean build of this repo)`
+- **pokered.patch** — BPS patch for Pokémon Red `sha1: (clean build of this repo)`
+- **pokeblue.patch** — BPS patch for Pokémon Blue `sha1: (clean build of this repo)`
+
+To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 Based on [pret/pokered](https://github.com/pret/pokered). Built with [RGBDS](https://github.com/gbdev/rgbds).
+
+## See also
+
+- [**Wiki**][wiki] (includes [tutorials][tutorials])
+- [**Symbols**][symbols]
+- **Discord:** [pret][discord]
+- **IRC:** [libera#pret][irc]
+
+Other disassembly projects:
+
+- [**Pokémon Yellow**][pokeyellow]
+- [**Pokémon Gold/Silver**][pokegold]
+- [**Pokémon Crystal**][pokecrystal]
+- [**Pokémon Pinball**][pokepinball]
+- [**Pokémon TCG**][poketcg]
+- [**Pokémon Ruby**][pokeruby]
+- [**Pokémon FireRed**][pokefirered]
+- [**Pokémon Emerald**][pokeemerald]
+
+[pokeyellow]: https://github.com/pret/pokeyellow
+[pokegold]: https://github.com/pret/pokegold
+[pokecrystal]: https://github.com/pret/pokecrystal
+[pokepinball]: https://github.com/pret/pokepinball
+[poketcg]: https://github.com/pret/poketcg
+[pokeruby]: https://github.com/pret/pokeruby
+[pokefirered]: https://github.com/pret/pokefirered
+[pokeemerald]: https://github.com/pret/pokeemerald
+[wiki]: https://github.com/pret/pokered/wiki
+[tutorials]: https://github.com/pret/pokered/wiki/Tutorials
+[symbols]: https://github.com/pret/pokered/tree/symbols
+[discord]: https://discord.gg/d5dubZ3
+[irc]: https://web.libera.chat/?#pret
+[ci]: https://github.com/pret/pokered/actions
+[ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
 
 ---
 
@@ -47,10 +89,15 @@ Open a terminal in the project folder.
 
 When the build finishes, you will have:
 
-- `pokered.gbc` — Pokémon Red (Danish)
-- `pokeblue.gbc` — Pokémon Blue (Danish)
+| Output | Description |
+|--------|-------------|
+| `pokered.gbc` | Pokémon Red (Danish) — playable ROM |
+| `pokeblue.gbc` | Pokémon Blue (Danish) — playable ROM |
+| `pokeblue_debug.gbc` | Pokémon Blue (Danish) with debug features |
+| `pokered.patch` | BPS patch for Pokémon Red (optional) |
+| `pokeblue.patch` | BPS patch for Pokémon Blue (optional) |
 
-Open these in any Game Boy (Color) emulator (e.g. [mGBA](https://mgba.io/), BGB, Emulicious).
+Open the `.gbc` ROMs in any Game Boy (Color) emulator (e.g. [mGBA](https://mgba.io/), BGB, Emulicious).
 
 ### 3. Clean build (optional)
 
@@ -84,29 +131,6 @@ make
 ## License
 
 This project is for educational and personal use. Pokémon and related names are trademarks of Nintendo / The Pokémon Company. The disassembly is based on [pret/pokered](https://github.com/pret/pokered).
-
----
-
-## Publish to GitHub
-
-If you want to put this project on GitHub:
-
-1. On GitHub, click **New repository**. Choose a name (e.g. `pokered-da`), leave it empty (no README/license).
-2. In the project folder, add the remote and push (use your repo URL):
-
-   ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/pokered-da.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-   If you use SSH: `git remote add origin git@github.com:YOUR_USERNAME/pokered-da.git`
-
-3. Before the first push, set your Git identity if needed:
-   ```bash
-   git config user.name "Your Name"
-   git config user.email "your@email.com"
-   ```
 
 ---
 
