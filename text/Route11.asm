@@ -1,133 +1,133 @@
 _Route11BattleText1::
-	text "Win, lose or draw!"
+	text "Vind, tab eller uafgjort!"
 	done
 
 _Route11EndBattleText1::
 	text "Atcha!"
-	line "Didn't go my way!"
+	line "Det gik ikke min vej!"
 	prompt
 
 _Route11AfterBattleText1::
-	text "#MON is life!"
-	line "And to live is to"
+	text "#MON er livet!"
+	line "Og at leve er at"
 	cont "gamble!"
 	done
 
 _Route11BattleText2::
-	text "Competition! I"
-	line "can't get enough!"
+	text "Konkurrence! Jeg"
+	line "får aldrig nok!"
 	done
 
 _Route11EndBattleText2::
-	text "I had"
-	line "a chance!"
+	text "Jeg havde"
+	line "en chance!"
 	prompt
 
 _Route11AfterBattleText2::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "Du kan ikke være"
+	line "kujon i"
+	cont "#MON-verdenen!"
 	done
 
 _Route11BattleText3::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Lad os gå, men"
+	line "fuske ikke!"
 	done
 
 _Route11EndBattleText3::
-	text "Huh?"
-	line "That's not right!"
+	text "Hva?"
+	line "Det er ikke rigtigt!"
 	prompt
 
 _Route11AfterBattleText3::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "Jeg gjorde mit bedste!"
+	line "Ingen fortrydelser!"
 	done
 
 _Route11BattleText4::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "Forsigtig!"
+	line "Jeg lægger"
+	cont "kabler!"
 	done
 
 _Route11EndBattleText4::
-	text "That"
-	line "was electric!"
+	text "Det"
+	line "var elektrisk!"
 	prompt
 
 _Route11AfterBattleText4::
-	text "Spread the word"
-	line "to save energy!"
+	text "Spred budskabet"
+	line "om at spare energi!"
 	done
 
 _Route11BattleText5::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "Jeg blev lige"
+	line "træner! Men jeg"
+	cont "tror jeg kan vinde!"
 	done
 
 _Route11EndBattleText5::
-	text "My"
-	line "#MON couldn't!"
+	text "Mine"
+	line "#MON kunne ikke!"
 	prompt
 
 _Route11AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "Hvad vil du?"
+	line "Lad mig være!"
 	done
 
 _Route11BattleText6::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Fwahaha! Jeg har"
+	line "aldrig tabt!"
 	done
 
 _Route11EndBattleText6::
-	text "My"
-	line "first loss!"
+	text "Mit"
+	line "første nederlag!"
 	prompt
 
 _Route11AfterBattleText6::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Lykken er med mig!"
+	line "Bare held!"
 	done
 
 _Route11BattleText7::
-	text "I have never won"
-	line "before..."
+	text "Jeg har aldrig"
+	line "vundet før..."
 	done
 
 _Route11EndBattleText7::
-	text "I saw"
-	line "this coming..."
+	text "Jeg så"
+	line "det komme..."
 	prompt
 
 _Route11AfterBattleText7::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Det er bare held."
+	line "Lykken er med mig."
 	done
 
 _Route11BattleText8::
-	text "I'm the best in"
-	line "my class!"
+	text "Jeg er den bedste"
+	line "i min klasse!"
 	done
 
 _Route11EndBattleText8::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "Pokkers!"
+	line "Jeg skal gøre mine"
+	cont "#MON stærkere!"
 	prompt
 
 _Route11AfterBattleText8::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "Der er en fed"
+	line "#MON der"
+	cont "kommer ned fra"
+	cont "bjergene."
 
-	para "It's strong if"
-	line "you can get it."
+	para "Den er stærk hvis"
+	line "du kan fange den."
 	done
 
 _Route11BattleText9::
-	text "Watch out for"
-	line "live wires!"
+	text "Pas på"
+	line "levende ledninger!"
 	done

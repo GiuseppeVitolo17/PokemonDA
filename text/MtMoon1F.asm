@@ -1,119 +1,119 @@
 _MtMoon1BattleText2::
-	text "WHOA! You shocked"
-	line "me! Oh, you're"
-	cont "just a kid!"
+	text "WOW! Du chokerede"
+	line "mig! Åh, du er"
+	cont "bare et barn!"
 	done
 
 _MtMoon1EndBattleText2::
 	text "Wow!"
-	line "Shocked again!"
+	line "Chokeret igen!"
 	prompt
 
 _MtMoon1AfterBattleText2::
-	text "Kids like you"
-	line "shouldn't be"
-	cont "here!"
+	text "Børn som dig"
+	line "burde ikke være"
+	cont "her!"
 	done
 
 _MtMoon1BattleText3::
-	text "Did you come to"
-	line "explore too?"
+	text "Kom du også for at"
+	line "udforske?"
 	done
 
 _MtMoon1EndBattleText3::
-	text "Losing"
-	line "stinks!"
+	text "At tabe"
+	line "stinker!"
 	prompt
 
 _MtMoon1AfterBattleText3::
-	text "I came down here"
-	line "to show off to"
-	cont "girls."
+	text "Jeg kom herned"
+	line "for at blære mig"
+	cont "overfor piger."
 	done
 
 _MtMoon1BattleText4::
-	text "Wow! It's way"
-	line "bigger in here"
-	cont "than I thought!"
+	text "Wow! Det er meget"
+	line "større herinde"
+	cont "end jeg troede!"
 	done
 
 _MtMoon1EndBattleText4::
-	text "Oh!"
-	line "I lost it!"
+	text "Åh!"
+	line "Jeg tabte!"
 	prompt
 
 _MtMoon1AfterBattleText4::
-	text "How do you get"
-	line "out of here?"
+	text "Hvordan kommer man"
+	line "ud herfra?"
 	done
 
 _MtMoon1BattleText5::
-	text "What! Don't sneak"
-	line "up on me!"
+	text "Hvad! Snig dig ikke"
+	line "op på mig!"
 	done
 
 _MtMoon1EndBattleText5::
-	text "My"
-	line "#MON won't do!"
+	text "Mine"
+	line "#MON duer ikke!"
 	prompt
 
 _MtMoon1AfterBattleText5::
-	text "I have to find"
-	line "stronger #MON."
+	text "Jeg må finde"
+	line "stærkere #MON."
 	done
 
 _MtMoon1BattleText6::
-	text "What? I'm waiting"
-	line "for my friends to"
-	cont "find me here."
+	text "Hvad? Jeg venter"
+	line "på mine venner"
+	cont "finder mig her."
 	done
 
 _MtMoon1EndBattleText6::
-	text "I lost?"
+	text "Jeg tabte?"
 	prompt
 
 _MtMoon1AfterBattleText6::
-	text "I heard there are"
-	line "some very rare"
-	cont "fossils here."
+	text "Jeg hørte der er"
+	line "nogle meget sjældne"
+	cont "fossiler her."
 	done
 
 _MtMoon1BattleText7::
-	text "Suspicious men"
-	line "are in the cave."
-	cont "What about you?"
+	text "Mistænkelige mænd"
+	line "er i hulen."
+	cont "Hvad med dig?"
 	done
 
 _MtMoon1EndBattleText7::
-	text "You"
-	line "got me!"
+	text "Du"
+	line "fik mig!"
 	prompt
 
 _MtMoon1AfterBattleText7::
-	text "I saw them! I'm"
-	line "sure they're from"
+	text "Jeg så dem! Jeg er"
+	line "sikker på de er fra"
 	cont "TEAM ROCKET!"
 	done
 
 _MtMoon1BattleText8::
-	text "Go through this"
-	line "cave to get to"
+	text "Gå gennem denne"
+	line "hule for at komme til"
 	cont "CERULEAN CITY!"
 	done
 
 _MtMoon1EndBattleText8::
-	text "I"
-	line "lost."
+	text "Jeg"
+	line "tabte."
 	prompt
 
 _MtMoon1AfterBattleText8::
-	text "ZUBAT is tough!"
-	line "But, it can be"
-	cont "useful if you"
-	cont "catch one."
+	text "ZUBAT er hård!"
+	line "Men den kan være"
+	cont "nyttig hvis du"
+	cont "fanger en."
 	done
 
 _MtMoon1Text14::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "Pas på! ZUBAT"
+	line "suger blod!"
 	done

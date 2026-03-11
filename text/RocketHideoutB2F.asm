@@ -1,17 +1,17 @@
 _RocketHideout2BattleText2::
-	text "BOSS said you can"
-	line "see GHOSTs with"
-	cont "the SILPH SCOPE!"
+	text "CHEFEN sagde du kan"
+	line "se SPØGELSER med"
+	cont "SILPH SCOPE!"
 	done
 
 _RocketHideout2EndBattleText2::
-	text "I"
-	line "surrender!"
+	text "Jeg"
+	line "overgiver mig!"
 	prompt
 
 _RocketHideout2AfterBattleTxt2::
-	text "The TEAM ROCKET"
-	line "HQ has 4 basement"
-	cont "floors. Can you"
-	cont "reach the BOSS?"
+	text "TEAM ROCKETs"
+	line "HQ har 4 kælder-"
+	cont "etager. Kan du"
+	cont "nå CHEFEN?"
 	done

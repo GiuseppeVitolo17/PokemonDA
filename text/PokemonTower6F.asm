@@ -1,29 +1,29 @@
 _PokemonTower2Text_60c1f::
-	text "The GHOST was the"
-	line "restless soul of"
-	cont "CUBONE's mother!"
+	text "SPØGELSET var"
+	line "CUBONEs mors"
+	cont "rastløse sjæl!"
 	done
 
 _PokemonTower2Text_60c24::
-	text "The mother's soul"
-	line "was calmed."
+	text "Morens sjæl"
+	line "blev beroliget."
 
-	para "It departed to"
-	line "the afterlife!"
+	para "Den rejste til"
+	line "det hinsidige!"
 	done
 
 _PokemonTower6BattleText1::
-	text "Give...me..."
-	line "blood..."
+	text "Giv...mig..."
+	line "blod..."
 	done
 
 _PokemonTower6EndBattleText1::
-	text "Groan!"
+	text "Støn!"
 	prompt
 
 _PokemonTower6AfterBattleText1::
-	text "I feel anemic and"
-	line "weak..."
+	text "Jeg føler mig"
+	line "blodfattig og svag..."
 	done
 
 _PokemonTower6BattleText2::
@@ -31,14 +31,14 @@ _PokemonTower6BattleText2::
 	done
 
 _PokemonTower6EndBattleText2::
-	text "Some-"
-	line "thing fell out!"
+	text "Noget"
+	line "faldt ud!"
 	prompt
 
 _PokemonTower6AfterBattleText2::
-	text "Hair didn't fall"
-	line "out! It was an"
-	cont "evil spirit!"
+	text "Det var ikke hår"
+	line "der faldt ud! Det"
+	cont "var en ond ånd!"
 	done
 
 _PokemonTower6BattleText3::
@@ -51,11 +51,11 @@ _PokemonTower6EndBattleText3::
 	prompt
 
 _PokemonTower6AfterBattleText3::
-	text "What's going on"
-	line "here?"
+	text "Hvad sker der"
+	line "her?"
 	done
 
 _PokemonTower6Text6::
-	text "Be gone..."
-	line "Intruders..."
+	text "Forsvind..."
+	line "Indtrængere..."
 	done

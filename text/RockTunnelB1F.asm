@@ -1,108 +1,107 @@
 _RockTunnel2BattleText2::
-	text "Hikers leave twigs"
-	line "as trail markers."
+	text "Vandrer efterlader"
+	line "kviste som stimærker."
 	done
 
 _RockTunnel2EndBattleText2::
-	text "Ohhh!"
-	line "I did my best!"
+	text "Åhhh!"
+	line "Jeg gjorde mit bedste!"
 	prompt
 
 _RockTunnel2AfterBattleText2::
-	text "I want to go "
-	line "home!"
+	text "Jeg vil hjem!"
 	done
 
 _RockTunnel2BattleText3::
-	text "Hahaha! Can you"
-	line "beat my power?"
+	text "Hahaha! Kan du"
+	line "slå min styrke?"
 	done
 
 _RockTunnel2EndBattleText3::
-	text "Oops!"
-	line "Out-muscled!"
+	text "Ups!"
+	line "Overmandet!"
 	prompt
 
 _RockTunnel2AfterBattleText3::
-	text "I go for power"
-	line "because I hate"
-	cont "thinking!"
+	text "Jeg går efter styrke"
+	line "fordi jeg hader"
+	cont "at tænke!"
 	done
 
 _RockTunnel2BattleText4::
-	text "You have a"
+	text "Har du en"
 	line "#DEX?"
-	cont "I want one too!"
+	cont "Jeg vil også have en!"
 	done
 
 _RockTunnel2EndBattleText4::
-	text "Shoot!"
-	line "I'm so jealous!"
+	text "Sørens!"
+	line "Jeg er så misundelig!"
 	prompt
 
 _RockTunnel2AfterBattleText4::
-	text "When you finish"
-	line "your #DEX, can"
-	cont "I have it?"
+	text "Når du er færdig"
+	line "med din #DEX,"
+	cont "må jeg få den?"
 	done
 
 _RockTunnel2BattleText5::
-	text "Do you know about"
-	line "costume players?"
+	text "Ved du noget om"
+	line "kostumespillere?"
 	done
 
 _RockTunnel2EndBattleText5::
-	text "Well,"
-	line "that's that."
+	text "Nå,"
+	line "så er det det."
 	prompt
 
 _RockTunnel2AfterBattleText5::
-	text "Costume players"
-	line "dress up as"
-	cont "#MON for fun."
+	text "Kostumespillere"
+	line "klæder sig ud som"
+	cont "#MON for sjov."
 	done
 
 _RockTunnel2BattleText6::
-	text "My #MON"
-	line "techniques will"
-	cont "leave you crying!"
+	text "Mine #MON-"
+	line "teknikker vil"
+	cont "få dig til at græde!"
 	done
 
 _RockTunnel2EndBattleText6::
-	text "I give!"
-	line "You're a better"
-	cont "technician!"
+	text "Jeg giver op!"
+	line "Du er en bedre"
+	cont "tekniker!"
 	prompt
 
 _RockTunnel2AfterBattleText6::
-	text "In mountains,"
-	line "you'll often find"
-	cont "rock-type #MON."
+	text "I bjerge finder du"
+	line "ofte sten-type"
+	cont "#MON."
 	done
 
 _RockTunnel2BattleText7::
-	text "I don't often"
-	line "come here, but I"
-	cont "will fight you."
+	text "Jeg kommer ikke"
+	line "ofte her, men jeg"
+	cont "kæmper med dig."
 	done
 
 _RockTunnel2EndBattleText7::
-	text "Oh!"
-	line "I lost!"
+	text "Åh!"
+	line "Jeg tabte!"
 	prompt
 
 _RockTunnel2AfterBattleText7::
-	text "I like tiny"
-	line "#MON, big ones"
-	cont "are too scary!"
+	text "Jeg kan lide små"
+	line "#MON, store er"
+	cont "for skræmmende!"
 	done
 
 _RockTunnel2BattleText8::
-	text "Hit me with your"
-	line "best shot!"
+	text "Ram mig med dit"
+	line "bedste skud!"
 	done
 
 _RockTunnel2EndBattleText8::
-	text "Fired"
-	line "away!"
+	text "Afsendt"
+	line "væk!"
 	prompt

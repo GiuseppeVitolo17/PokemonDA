@@ -103,9 +103,9 @@ _OaksAideUhOhText::
 	cont "kun fanget @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "typer of #MON!"
+	cont "typer af #MON!"
 
-	para "Du manger @"
+	para "Du mangler @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text " typer"
 	line "hvis du vil have"

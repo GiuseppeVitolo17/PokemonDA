@@ -1,146 +1,143 @@
 _BrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Der findes alle"
+	line "slags trænere"
+	cont "i verden!"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "Du virker til at"
+	line "være meget talentfuld"
+	cont "som #MON-træner!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Gå til GYM i"
+	line "CERULEAN og test"
+	cont "dine evner!"
 	done
 
 _BeforeReceivedTM34Text::
-	text "Wait! Take this"
-	line "with you!"
+	text "Vent! Tag dette"
+	line "med dig!"
 	done
 
 _ReceivedTM34Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "En TM indeholder en"
+	line "teknik der kan"
+	cont "læres til #MON!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "En TM kan kun"
+	line "bruges én gang! Så"
+	cont "vælg #MON"
+	cont "nøje når du"
+	cont "bruger en!"
 
-	para "TM34 contains"
+	para "TM34 indeholder"
 	line "BIDE!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Din #MON vil"
+	line "absorbere skade i"
+	cont "kamp og betale"
+	cont "den dobbelt tilbage!"
 	done
 
 _TM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "Du har ikke"
+	line "plads til dette!"
 	done
 
 _ReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "Jeg tog"
+	line "dig for givet."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDEREMBLEM!"
+	para "Som bevis for din"
+	line "sejr, her er"
+	cont "KLIFFEMBLEMET!"
 
-	para "<PLAYER> received"
-	line "the BOULDEREMBLEM!@"
+	para "<PLAYER> modtog"
+	line "KLIFFEMBLEMET!@"
 	text_end
 
 _BrockBoulerBadgeInfoText::
 	text_start
 
-	para "That's an official"
+	para "Det er et officielt"
 	line "#MON-LIGA"
 	cont "EMBLEM!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Bærerenes #MON"
+	line "bliver stærkere!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Teknikken FLASH"
+	line "kan nu bruges"
+	cont "når som helst!"
 	prompt
 
 _PewterGymBattleText1::
-	text "Stop right there,"
-	line "kid!"
+	text "Stop lige der,"
+	line "unge!"
 
-	para "You're still light"
-	line "years from facing"
+	para "Du er lysår"
+	line "fra at møde"
 	cont "BROCK!"
 	done
 
 _PewterGymEndBattleText1::
-	text "Darn!"
+	text "Pokkers!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Lysår er ikke"
+	line "tid! Det måler"
+	cont "afstand!"
 	prompt
 
 _PewterGymAfterBattleText1::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Du er ret stærk,"
+	line "men ikke så stærk"
+	cont "som BROCK!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Hej! Jeg kan se"
+	line "du har hvad der"
+	cont "til at blive"
+	cont "#MON-mester!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "Jeg er ikke træner,"
+	line "men jeg kan fortælle"
+	cont "dig hvordan man vinder!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Lad mig tage dig"
+	line "til toppen!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "Okay! Lad os"
+	line "komme i gang!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "Den 1. #MON"
+	line "ude i en kamp er"
+	cont "øverst på"
+	cont "#MON-LISTEN!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Ved at ændre"
+	line "rækkefølgen af #MON"
+	cont "kan kampe blive"
+	cont "lettere!"
 	done
 
 _PewterGymText_5c524::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "Det er gratis!"
+	line "Lad os"
+	cont "komme i gang!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Som jeg tænkte!"
+	line "Du er #MON-"
+	cont "mestermateriale!"
 	done

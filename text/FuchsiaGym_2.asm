@@ -1,31 +1,30 @@
 _KogaPostBattleAdviceText::
-	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	text "Når ramt af"
+	line "TOXIC, lider #MON"
+	cont "mere og mere"
+	cont "som kampen"
+	cont "skrider frem!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "Det vil helt sikkert"
+	line "terrorisere fjender!"
 	done
 
 _KogaSoulBadgeInfoText::
-	text "Now that you have"
-	line "the SOULEMBLEM,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "Nu hvor du har"
+	line "SJÆLEMBLEMET,"
+	cont "øges DEFENSE hos"
+	cont "dine #MON!"
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "Det lader dig også"
+	line "SURFE uden for"
+	cont "kamp!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "Ah! Tag også"
+	line "dette!"
 	done
 
 _ReceivedTM06Text::
-	text "<PLAYER> received"
+	text "<PLAYER> modtog"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,108 +32,108 @@ _ReceivedTM06Text::
 
 _TM06ExplanationText::
 	text_start
-	para "TM06 contains"
+	para "TM06 indeholder"
 	line "TOXIC!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "Det er en hemmelig"
+	line "teknik over"
+	cont "400 år gammel!"
 	done
 
 _TM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "Gør plads til"
+	line "dette, barn!"
 	done
 
 _FuchsiaGymBattleText1::
-	text "Strength isn't"
-	line "the key for"
+	text "Styrke er ikke"
+	line "nøglen til"
 	cont "#MON!"
 
-	para "It's strategy!"
+	para "Det er strategi!"
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "Jeg viser dig hvordan"
+	line "strategi slår"
+	cont "rå styrke!"
 	done
 
 _FuchsiaGymEndBattleText1::
-	text "What?"
-	line "Extraordinary!"
+	text "Hvad?"
+	line "Ekstraordinært!"
 	prompt
 
 _FuchsiaGymAfterBattleText1::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "Så du blander muskler"
+	line "med hjerne?"
+	cont "God strategi!"
 	done
 
 _FuchsiaGymBattleText2::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "Jeg ville blive"
+	line "ninja, så jeg"
+	cont "meldte mig til dette GYM!"
 	done
 
 _FuchsiaGymEndBattleText2::
-	text "I'm done"
-	line "for!"
+	text "Jeg er"
+	line "færdig!"
 	prompt
 
 _FuchsiaGymAfterBattleText2::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "Jeg bliver ved med"
+	line "at træne under"
+	cont "KOGA, min ninja-"
+	cont "mester!"
 	done
 
 _FuchsiaGymBattleText3::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "Lad os se dig"
+	line "slå mine specielle"
+	cont "teknikker!"
 	done
 
 _FuchsiaGymEndBattleText3::
-	text "You"
-	line "had me fooled!"
+	text "Du"
+	line "narrede mig!"
 	prompt
 
 _FuchsiaGymAfterBattleText3::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "Jeg kan lide gift- og"
+	line "søvn-teknikker,"
+	cont "de varer ved"
+	cont "efter kampen!"
 	done
 
 _FuchsiaGymBattleText4::
-	text "Stop right there!"
+	text "Stop lige der!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "Vores usynlige"
+	line "vægge gør dig"
+	cont "frustreret?"
 	done
 
 _FuchsiaGymEndBattleText4::
 	text "Whoa!"
-	line "He's got it!"
+	line "Han har det!"
 	prompt
 
 _FuchsiaGymAfterBattleText4::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "Du imponerede mig!"
+	line "Her er et tip!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "Kig meget nøje"
+	line "efter huller i de"
+	cont "usynlige vægge!"
 	done
 
 _FuchsiaGymBattleText5::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "Jeg studerer også"
+	line "ninjaens vej"
+	cont "hos mester KOGA!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "Ninjaer har lang"
+	line "historie med at bruge"
+	cont "dyr!"
 	done
 
 _FuchsiaGymEndBattleText5::
@@ -142,53 +141,52 @@ _FuchsiaGymEndBattleText5::
 	prompt
 
 _FuchsiaGymAfterBattleText5::
-	text "I still have much"
-	line "to learn!"
+	text "Jeg har stadig meget"
+	line "at lære!"
 	done
 
 _FuchsiaGymBattleText6::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "Mester KOGA kommer"
+	line "fra en lang linje"
+	cont "af ninjaer!"
 
-	para "What did you"
-	line "descend from?"
+	para "Hvad nedstammer"
+	line "du fra?"
 	done
 
 _FuchsiaGymEndBattleText6::
-	text "Dropped"
-	line "my balls!"
+	text "Tabte"
+	line "mine kugler!"
 	prompt
 
 _FuchsiaGymAfterBattleText6::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "Hvor der er"
+	line "lys, er der"
+	cont "skygge!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "Lys og skygge!"
+	line "Hvad vælger du?"
 	done
 
 _FuchsiaGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Mester i"
+	line "blomstring!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "FUCHSIA GYM er"
+	line "gennemsyret af"
+	cont "usynlige vægge!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "KOGA kan virke"
+	line "tæt på, men han er"
+	cont "blokeret!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "Du skal finde"
+	line "huller i væggene"
+	cont "for at nå ham!"
 	done
 
 _FuchsiaGymGuidePostBattleText::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "Det er fantastisk"
+	line "hvordan ninjaer kan"
+	cont "skræmme endnu nu!"
 	done

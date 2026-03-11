@@ -1,179 +1,178 @@
 _Route13BattleText2::
-	text "My bird #MON"
-	line "want to scrap!"
+	text "Mine fugle-#MON"
+	line "vil slås!"
 	done
 
 _Route13EndBattleText2::
-	text "My"
-	line "bird combo lost?"
+	text "Mit"
+	line "fugle-combo tabte?"
 	prompt
 
 _Route13AfterBattleText2::
-	text "My #MON look"
-	line "happy even though"
-	cont "they lost."
+	text "Mine #MON ser"
+	line "glade ud selv om"
+	cont "de tabte."
 	done
 
 _Route13BattleText3::
-	text "I'm told I'm good"
-	line "for a kid!"
+	text "Jeg får at vide jeg"
+	line "er god for et barn!"
 	done
 
 _Route13EndBattleText3::
-	text "Ohh!"
-	line "I lost!"
+	text "Åhh!"
+	line "Jeg tabte!"
 	prompt
 
 _Route13AfterBattleText3::
-	text "I want to become"
-	line "a good trainer."
-	cont "I'll train hard."
+	text "Jeg vil blive en"
+	line "god træner."
+	cont "Jeg træner hårdt."
 	done
 
 _Route13BattleText4::
-	text "Wow! Your EMBLEMER"
-	line "are too cool!"
+	text "Wow! Dine EMBLEMER"
+	line "er for seje!"
 	done
 
 _Route13EndBattleText4::
-	text "Not"
-	line "enough!"
+	text "Ikke"
+	line "nok!"
 	prompt
 
 _Route13AfterBattleText4::
-	text "You got those"
-	line "EMBLEMER from GYM"
-	cont "LEADERs. I know!"
+	text "Du fik de"
+	line "EMBLEMER fra GYM-"
+	cont "LEDERE. Jeg ved det!"
 	done
 
 _Route13BattleText5::
-	text "My cute #MON"
-	line "wish to make your"
-	cont "acquaintance."
+	text "Mine søde #MON"
+	line "vil gerne møde dig."
 	done
 
 _Route13EndBattleText5::
 	text "Wow!"
-	line "You totally won!"
+	line "Du vandt totalt!"
 	prompt
 
 _Route13AfterBattleText5::
-	text "You have to make"
-	line "#MON fight to"
-	cont "toughen them up!"
+	text "Du skal lade"
+	line "#MON kæmpe for"
+	cont "at gøre dem hårde!"
 	done
 
 _Route13BattleText6::
-	text "I found CARBOS in"
-	line "a cave once."
+	text "Jeg fandt CARBOS"
+	line "i en hule engang."
 	done
 
 _Route13EndBattleText6::
-	text "Just"
-	line "messed up!"
+	text "Bare"
+	line "ødelagt!"
 	prompt
 
 _Route13AfterBattleText6::
-	text "CARBOS boosted"
-	line "the SPEED of my"
+	text "CARBOS øgede"
+	line "HASTIGHEDEN hos mine"
 	cont "#MON."
 	done
 
 _Route13BattleText7::
-	text "The wind's blowing"
-	line "my way!"
+	text "Vinden blæser"
+	line "min vej!"
 	done
 
 _Route13EndBattleText7::
-	text "The"
-	line "wind turned!"
+	text "Vinden"
+	line "vendte!"
 	prompt
 
 _Route13AfterBattleText7::
-	text "I'm beat. I guess"
-	line "I'll FLY home."
+	text "Jeg er færdig. Jeg"
+	line "FLYVER hjem."
 	done
 
 _Route13BattleText8::
-	text "Sure, I'll play"
-	line "with you!"
+	text "Selvfølgelig, jeg"
+	line "leger med dig!"
 	done
 
 _Route13EndBattleText8::
-	text "Oh!"
-	line "You little brute!"
+	text "Åh!"
+	line "Din lille bølle!"
 	prompt
 
 _Route13AfterBattleText8::
-	text "I wonder which is"
-	line "stronger, male or"
-	cont "female #MON?"
+	text "Jeg spekulerer på"
+	line "hvem der er stærkest,"
+	cont "han eller hun #MON?"
 	done
 
 _Route13BattleText9::
-	text "Do you want to"
-	line "#MON with me?"
+	text "Vil du kæmpe"
+	line "#MON med mig?"
 	done
 
 _Route13EndBattleText9::
-	text "It's over"
-	line "already?"
+	text "Er det"
+	line "allerede slut?"
 	prompt
 
 _Route13AfterBattleText9::
-	text "I don't know"
-	line "anything about"
-	cont "#MON. I just"
-	cont "like cool ones!"
+	text "Jeg ved ikke"
+	line "noget om"
+	cont "#MON. Jeg kan"
+	cont "bare lide seje!"
 	done
 
 _Route13BattleText10::
-	text "What're you"
-	line "lookin' at?"
+	text "Hvad"
+	line "kigger du på?"
 	done
 
 _Route13EndBattleText10::
-	text "Dang!"
-	line "Stripped gears!"
+	text "Sørens!"
+	line "Odækket gear!"
 	prompt
 
 _Route13AfterBattleText10::
-	text "Get lost!"
+	text "Forsvind!"
 	done
 
 _Route13BattleText11::
-	text "I always go with"
-	line "bird #MON!"
+	text "Jeg går altid med"
+	line "fugle-#MON!"
 	done
 
 _Route13EndBattleText11::
-	text "Out"
-	line "of power!"
+	text "Løbet"
+	line "tør for kraft!"
 	prompt
 
 _Route13AfterBattleText11::
-	text "I wish I could"
-	line "fly like PIDGEY"
-	cont "and PIDGEOTTO..."
+	text "Jeg ville ønske jeg"
+	line "kunne flyve som PIDGEY"
+	cont "og PIDGEOTTO..."
 	done
 
 _Route13Text11::
-	text "TRAINER TIPS"
+	text "TRÆNER TIPS"
 
-	para "Look to the left"
-	line "of that post!"
+	para "Kig til venstre"
+	line "for det stolpe!"
 	done
 
 _Route13Text12::
-	text "TRAINER TIPS"
+	text "TRÆNER TIPS"
 
-	para "Use SELECT to"
-	line "switch items in"
-	cont "the ITEM window!"
+	para "Brug SELECT til at"
+	line "skifte ting i"
+	cont "TING-vinduet!"
 	done
 
 _Route13Text13::
 	text "ROUTE 13"
-	line "North to SILENCE"
-	cont "BRIDGE"
+	line "Nord til STILHEDENS"
+	cont "BRO"
 	done

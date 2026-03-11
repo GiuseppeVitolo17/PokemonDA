@@ -1,25 +1,25 @@
 _IndigoPlateauLobbyText2::
-	text "Yo! Champ in"
-	line "making!"
+	text "Hej! Fremtidige"
+	line "mester!"
 
-	para "At #MON-LIGAEN,"
-	line "you have to face"
-	cont "ELITE-FIREN in"
-	cont "succession."
+	para "Ved #MON-LIGAEN"
+	line "skal du møde"
+	cont "ELITE-FIREN"
+	cont "i træk."
 
-	para "If you lose, you"
-	line "have to start all"
-	cont "over again! This"
-	cont "is it! Go for it!"
+	para "Taber du, skal du"
+	line "starte forfra!"
+	cont "Sådan er det!"
+	cont "Kør på!"
 	done
 
 _IndigoPlateauLobbyText3::
-	text "From here on, you"
-	line "face the ELITE"
-	cont "FOUR one by one!"
+	text "Herfra møder du"
+	line "ELITE-FIREN"
+	cont "én ad gangen!"
 
-	para "If you win, a"
-	line "door opens to the"
-	cont "next trainer!"
-	cont "Good luck!"
+	para "Vinder du, åbnes"
+	line "en dør til næste"
+	cont "træner!"
+	cont "Held og lykke!"
 	done

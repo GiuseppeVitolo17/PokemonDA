@@ -1,153 +1,153 @@
 _Route20BattleText1::
-	text "The water is"
-	line "shallow here."
+	text "Vandet er"
+	line "lavt her."
 	done
 
 _Route20EndBattleText1::
-	text "Splash!"
+	text "Plask!"
 	prompt
 
 _Route20AfterBattleText1::
-	text "I wish I could"
-	line "ride my #MON."
+	text "Jeg ville ønske jeg"
+	line "kunne ride på mine #MON."
 	done
 
 _Route20BattleText2::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "SEAFOAM er et"
+	line "roligt tilflugtssted!"
 	done
 
 _Route20EndBattleText2::
-	text "Quit it!"
+	text "Hold op!"
 	prompt
 
 _Route20AfterBattleText2::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "Der er en kæmpe"
+	line "hule under"
+	cont "denne ø."
 	done
 
 _Route20BattleText3::
-	text "I love floating"
-	line "with the fishes!"
+	text "Jeg elsker at"
+	line "flyde med fiskene!"
 	done
 
 _Route20EndBattleText3::
-	text "Yowch!"
+	text "Av!"
 	prompt
 
 _Route20AfterBattleText3::
-	text "Want to float"
-	line "with me?"
+	text "Vil du flyde"
+	line "med mig?"
 	done
 
 _Route20BattleText4::
-	text "Are you on"
-	line "vacation too?"
+	text "Er du også på"
+	line "ferie?"
 	done
 
 _Route20EndBattleText4::
-	text "No"
-	line "mercy at all!"
+	text "Ingen"
+	line "nåde overhovedet!"
 	prompt
 
 _Route20AfterBattleText4::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "SEAFOAM var"
+	line "engang én ø!"
 	done
 
 _Route20BattleText5::
-	text "Check out my buff"
-	line "physique!"
+	text "Se min muskuløse"
+	line "krop!"
 	done
 
 _Route20EndBattleText5::
-	text "Wimpy!"
+	text "Svag!"
 	prompt
 
 _Route20AfterBattleText5::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "Jeg burde have"
+	line "trænet mine #MON,"
+	cont "ikke mig!"
 	done
 
 _Route20BattleText6::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "Hvorfor rider du"
+	line "på en #MON?"
+	cont "Kan du ikke svømme?"
 	done
 
 _Route20EndBattleText6::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "Av!"
+	line "Torpedoeret!"
 	prompt
 
 _Route20AfterBattleText6::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "At ride på en #MON"
+	line "ser skægt ud!"
 	done
 
 _Route20BattleText7::
-	text "I rode my bird"
-	line "#MON here!"
+	text "Jeg red på mine"
+	line "fugle-#MON hertil!"
 	done
 
 _Route20EndBattleText7::
-	text "Oh"
-	line "no!"
+	text "Åh"
+	line "nej!"
 	prompt
 
 _Route20AfterBattleText7::
-	text "My birds can't"
-	line "FLY me back!"
+	text "Mine fugle kan ikke"
+	line "FLYVE mig tilbage!"
 	done
 
 _Route20BattleText8::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "Min kæreste gav"
+	line "mig store perler!"
 	done
 
 _Route20EndBattleText8::
-	text "Don't"
-	line "touch my pearls!"
+	text "Rør ikke"
+	line "mine perler!"
 	prompt
 
 _Route20AfterBattleText8::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "Vil mine perler"
+	line "blive større"
+	cont "inde i CLOYSTER?"
 	done
 
 _Route20BattleText9::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "Jeg svømmede hertil"
+	line "fra CINNABAR ISLAND!"
 	done
 
 _Route20EndBattleText9::
-	text "I'm"
-	line "so disappointed!"
+	text "Jeg er"
+	line "så skuffet!"
 	prompt
 
 _Route20AfterBattleText9::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "#MON har"
+	line "overtaget et"
+	cont "forladt palæ"
+	cont "på CINNABAR!"
 	done
 
 _Route20BattleText10::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "CINNABAR, mod"
+	line "vest, har et LAB"
+	cont "til #MON."
 	done
 
 _Route20EndBattleText10::
-	text "Wait!"
+	text "Vent!"
 	prompt
 
 _Route20AfterBattleText10::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "CINNABAR er en"
+	line "vulkansk ø!"
 	done
 
 _Route20Text12::

@@ -1,40 +1,40 @@
 _Route11GateUpstairsText_494a3::
-	text "There are items on"
-	line "the ground that"
-	cont "can't be seen."
+	text "Der er ting på"
+	line "jorden der"
+	cont "ikke kan ses."
 
-	para "ITEMFINDER will"
-	line "detect an item"
-	cont "close to you."
+	para "ITEMFINDER vil"
+	line "opdage en genstand"
+	cont "tæt på dig."
 
-	para "It can't pinpoint"
-	line "it, so you have"
-	cont "to look yourself!"
+	para "Den kan ikke"
+	line "pege præcist, så"
+	cont "du skal lede selv!"
 	done
 
 _BinocularsSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "A big #MON is"
-	line "asleep on a road!"
+	para "En stor #MON"
+	line "sover på vejen!"
 	done
 
 _BinocularsNoSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "It's a beautiful"
-	line "view!"
+	para "Det er en smuk"
+	line "udsigt!"
 	done
 
 _Route11GateUpstairsText_494d5::
-	text "Looked into the"
-	line "binoculars."
+	text "Kiggede i"
+	line "kikkerten."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "STENTUNNEL."
+	para "Den eneste vej"
+	line "fra CERULEAN"
+	cont "CITY til LAVENDER"
+	cont "er gennem"
+	cont "STENTUNNELEN."
 	done

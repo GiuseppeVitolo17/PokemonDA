@@ -1,21 +1,21 @@
 _Route16BattleText1::
-	text "What do you want?"
+	text "Hvad vil du?"
 	done
 
 _Route16EndBattleText1::
-	text "Don't you"
-	line "dare laugh!"
+	text "Våg dig for"
+	line "at grine!"
 	prompt
 
 _Route16AfterBattleText1::
-	text "We like just"
-	line "hanging here,"
-	cont "what's it to you?"
+	text "Vi kan bare lide"
+	line "at hænge her,"
+	cont "hvad rager det dig?"
 	done
 
 _Route16BattleText2::
-	text "Nice BIKE!"
-	line "Hand it over!"
+	text "Fed CYKEL!"
+	line "Aflever den!"
 	done
 
 _Route16EndBattleText2::
@@ -24,28 +24,28 @@ _Route16EndBattleText2::
 	prompt
 
 _Route16AfterBattleText2::
-	text "Forget it, who"
-	line "needs your BIKE!"
+	text "Glem det, hvem"
+	line "har brug for din CYKEL!"
 	done
 
 _Route16BattleText3::
-	text "Come out and play,"
-	line "little mouse!"
+	text "Kom ud og leg,"
+	line "lille mus!"
 	done
 
 _Route16EndBattleText3::
-	text "You"
-	line "little rat!"
+	text "Din"
+	line "lille rotte!"
 	prompt
 
 _Route16AfterBattleText3::
-	text "I hate losing!"
-	line "Get away from me!"
+	text "Jeg hader at tabe!"
+	line "Forsvind fra mig!"
 	done
 
 _Route16BattleText4::
-	text "Hey, you just"
-	line "bumped me!"
+	text "Hey, du stødte"
+	line "lige mig!"
 	done
 
 _Route16EndBattleText4::
@@ -53,63 +53,63 @@ _Route16EndBattleText4::
 	prompt
 
 _Route16AfterBattleText4::
-	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
-	cont "coastal road."
+	text "Du kan også komme"
+	line "til FUCHSIA fra"
+	cont "VERMILION ad en"
+	cont "kystvej."
 	done
 
 _Route16BattleText5::
-	text "I'm feeling"
-	line "hungry and mean!"
+	text "Jeg er"
+	line "sulten og sur!"
 	done
 
 _Route16EndBattleText5::
-	text "Bad,"
-	line "bad, bad!"
+	text "Slemt,"
+	line "slemt, slemt!"
 	prompt
 
 _Route16AfterBattleText5::
-	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	text "Jeg kan lide mine #MON"
+	line "vilde! De"
+	cont "river fjender i stykker!"
 	done
 
 _Route16BattleText6::
-	text "Sure, I'll go!"
+	text "Okay, jeg gør det!"
 	done
 
 _Route16EndBattleText6::
-	text "Don't make"
-	line "me mad!"
+	text "Gør mig ikke"
+	line "sur!"
 	prompt
 
 _Route16AfterBattleText6::
-	text "I like harassing"
-	line "people with my"
-	cont "vicious #MON!"
+	text "Jeg kan lide at"
+	line "chikanere folk med"
+	cont "mine ondskabsfulde #MON!"
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "En sovende #MON"
+	line "blokerer vejen!"
 	done
 
 _Route16Text10::
-	text "SNORLAX woke up!"
+	text "SNORLAX vågnede!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "Den angreb i et"
+	line "sur rage!"
 	done
 
 _Route16Text11::
-	text "With a big yawn,"
-	line "SNORLAX returned"
-	cont "to the mountains!"
+	text "Med et stort gab"
+	line "vendte SNORLAX"
+	cont "tilbage til bjergene!"
 	done
 
 _Route16Text8::
-	text "Enjoy the slope!"
+	text "Nyd bakken!"
 	line "CYKELVEJEN"
 	done
 

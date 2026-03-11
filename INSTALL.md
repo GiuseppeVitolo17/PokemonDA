@@ -1,8 +1,8 @@
 # Instructions
 
-These instructions explain how to set up the tools required to build **pokered**, including [**rgbds**](https://github.com/gbdev/rgbds), which assembles the source files into a ROM.
+These instructions explain how to set up the tools required to build **Pokémon Red and Blue (Danish)** — this repository, **PokemonDA** (pokered-da). You need [**rgbds**](https://github.com/gbdev/rgbds) (version **0.6.0**), which assembles the source into ROMs.
 
-If you run into trouble, ask for help on IRC or Discord (see [README.md](README.md)).
+For a short build guide, see [README.md](README.md). If you run into trouble, ask for help on IRC or Discord (see [README.md](README.md)).
 
 
 ## Windows 10
@@ -15,9 +15,9 @@ Update WSL's software before continuing. If you chose Debian, Ubuntu, or another
 apt-get update && apt-get upgrade
 ```
 
-WSL has its own file system that's not accessible from Windows, but Windows files *are* accessible from WSL. So you're going to want to install pokered within Windows. You'll have to change the **current working directory** every time you open WSL.
+WSL has its own file system that's not accessible from Windows, but Windows files *are* accessible from WSL. So you're going to want to install the project within Windows. You'll have to change the **current working directory** every time you open WSL.
 
-For example, if you want to store pokered in **C:\Users\\*\<user>*\Desktop**, enter this command:
+For example, if you want to store the repo in **C:\Users\\*\<user>*\Desktop**, enter this command:
 
 ```bash
 cd /mnt/c/Users/<user>/Desktop
@@ -48,9 +48,9 @@ Then follow the [**rgbds** install instructions](https://rgbds.gbdev.io/install#
 
 Now open the **Cygwin terminal** and enter the following commands.
 
-Cygwin has its own file system that's within Windows, at **C:\cygwin64\home\\*\<user>***. If you don't want to store pokered there, you'll have to change the **current working directory** every time you open Cygwin.
+Cygwin has its own file system that's within Windows, at **C:\cygwin64\home\\*\<user>***. If you don't want to store the project there, you'll have to change the **current working directory** every time you open Cygwin.
 
-For example, if you want to store pokered in **C:\Users\\*\<user>*\Desktop**:
+For example, if you want to store the repo in **C:\Users\\*\<user>*\Desktop**:
 
 ```bash
 cd /cygdrive/c/Users/<user>/Desktop
@@ -138,24 +138,26 @@ If `rgbds` is not available, you'll need to follow the [**rgbds** instructions](
 Now you're ready to [build **pokered**](#build-pokered).
 
 
-## Build pokered
+## Build the ROMs
 
-To download the **pokered** source files:
+To download this repository (Pokémon Red/Blue in Danish):
 
 ```bash
-git clone https://github.com/pret/pokered
-cd pokered
+git clone https://github.com/GiuseppeVitolo17/PokemonDA
+cd PokemonDA
 ```
 
-To build **pokered.gbc** and **pokeblue.gbc**:
+To build **pokered.gbc**, **pokeblue.gbc**, and **pokeblue_debug.gbc**:
 
 ```bash
 make
 ```
 
+Ensure **rgbds 0.6.0** is installed and on your PATH (or in the project folder on Windows). See [README.md](README.md) for a quick start.
+
 ### Build with a local rgbds version
 
-If you have different projects that require different versions of `rgbds`, it might not be convenient to install rgbds 0.6.0 globally. Instead, you can put its files in a directory within pokered, such as `pokered/rgbds-0.6.0/`. Then specify it when you run `make`:
+If you have different projects that require different versions of `rgbds`, you can put rgbds 0.6.0 in a directory inside the project, e.g. `PokemonDA/rgbds-0.6.0/`. Then run:
 
 ```bash
 make RGBDS=rgbds-0.6.0/

@@ -1,14 +1,18 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue, fully translated into **Danish**. It builds the following ROMs:
+**Learn Danish with Pokémon.** — This is a disassembly of Pokémon Red and Blue, fully translated into **Danish**. Play the classic Game Boy games in Danish to practise the language.
 
-- **pokered.gbc** — Pokémon Red (Danish) `sha1: (clean build of this repo)`
-- **pokeblue.gbc** — Pokémon Blue (Danish) `sha1: (clean build of this repo)`
-- **pokeblue_debug.gbc** — Pokémon Blue debug build (Danish) `sha1: (clean build of this repo)`
-- **pokered.patch** — BPS patch for Pokémon Red `sha1: (clean build of this repo)`
-- **pokeblue.patch** — BPS patch for Pokémon Blue `sha1: (clean build of this repo)`
+## ROMs (clean build of this repo)
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+| File | Description | SHA1 |
+|------|-------------|------|
+| **pokered.gbc** | Pokémon Red (Danish) | `8227678195e9c72b8a2031ef417ab2c2a810d3fb` |
+| **pokeblue.gbc** | Pokémon Blue (Danish) | `41e6a30407e9625761c87c0f4a1f960f913886c1` |
+| **pokeblue_debug.gbc** | Pokémon Blue debug (Danish) | `fe0c11f1b57c9446251814730dfef369ed9046ef` |
+| **pokered.patch** | BPS patch for Pokémon Red | *(optional; see INSTALL)* |
+| **pokeblue.patch** | BPS patch for Pokémon Blue | *(optional; see INSTALL)* |
+
+To set up the repository and build, see [**INSTALL.md**](INSTALL.md).
 
 Based on [pret/pokered](https://github.com/pret/pokered). Built with [RGBDS](https://github.com/gbdev/rgbds).
 
@@ -43,8 +47,8 @@ Other disassembly projects:
 [symbols]: https://github.com/pret/pokered/tree/symbols
 [discord]: https://discord.gg/d5dubZ3
 [irc]: https://web.libera.chat/?#pret
-[ci]: https://github.com/pret/pokered/actions
-[ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+[ci]: https://github.com/GiuseppeVitolo17/PokemonDA/actions
+[ci-badge]: https://github.com/GiuseppeVitolo17/PokemonDA/actions/workflows/main.yml/badge.svg
 
 ---
 

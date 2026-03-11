@@ -1,28 +1,28 @@
 PikachuFanText::
-	text "Won't you admire"
-	line "my PIKACHU's"
-	cont "adorable tail?"
+	text "Vil du ikke beundre"
+	line "min PIKACHUs"
+	cont "yndige hale?"
 	done
 
 PikachuFanBetterText::
-	text "Humph! My PIKACHU"
-	line "is twice as cute"
-	cont "as that one!"
+	text "Humph! Min PIKACHU"
+	line "er dobbelt så sød"
+	cont "som den der!"
 	done
 
 SeelFanText::
-	text "I just love my"
+	text "Jeg elsker bare min"
 	line "SEEL!"
 
-	para "It squeals when I"
-	line "hug it!"
+	para "Den hyler når jeg"
+	line "krammer den!"
 	done
 
 SeelFanBetterText::
-	text "Oh dear!"
+	text "Åh nej!"
 
-	para "My SEEL is far"
-	line "more attractive!"
+	para "Min SEEL er langt"
+	line "mere tiltrækkende!"
 	done
 
 FanClubPikachuText::
@@ -35,110 +35,108 @@ FanClubSeelText::
 	done
 
 FanClubMeetChairText::
-	text "I chair the"
+	text "Jeg er formand for"
 	line "#MON Fan Club!"
 
-	para "I have collected"
+	para "Jeg har samlet"
 	line "over 100 #MON!"
 
-	para "I'm very fussy"
-	line "when it comes to"
+	para "Jeg er meget kræsen"
+	line "når det gælder"
 	cont "#MON!"
 
-	para "So..."
+	para "Så..."
 
-	para "Did you come"
-	line "visit to hear"
-	cont "about my #MON?"
+	para "Kom du for at"
+	line "høre om mine #MON?"
 	done
 
 FanClubChairStoryText::
-	text "Good!"
-	line "Then listen up!"
+	text "Godt!"
+	line "Så lyt med!"
 
-	para "My favorite"
+	para "Min yndlings-"
 	line "RAPIDASH..."
 
-	para "It...cute..."
-	line "lovely...smart..."
-	cont "plus...amazing..."
-	cont "you think so?..."
-	cont "oh yes...it..."
-	cont "stunning..."
-	cont "kindly..."
-	cont "love it!"
+	para "Den...sød..."
+	line "dejlig...klog..."
+	cont "plus...fantastisk..."
+	cont "synes du ikke?..."
+	cont "åh ja...den..."
+	cont "storslået..."
+	cont "venlig..."
+	cont "elsker den!"
 
-	para "Hug it...when..."
-	cont "sleeping...warm"
-	cont "and cuddly..."
-	cont "spectacular..."
-	cont "ravishing..."
-	cont "...Oops! Look at"
-	cont "the time! I kept"
-	cont "you too long!"
+	para "Kram den...når..."
+	cont "den sover...varm"
+	cont "og krammbar..."
+	cont "spektakulær..."
+	cont "bedårende..."
+	cont "...Ups! Se tiden!"
+	cont "Jeg holdt dig for længe!"
 
-	para "Thanks for hearing"
-	line "me out! I want"
-	cont "you to have this!"
+	para "Tak for at du"
+	line "lyttede! Jeg vil"
+	cont "give dig dette!"
 	prompt
 
 ReceivedBikeVoucherText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> modtog"
+	line "en @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 ExplainBikeVoucherText::
 	text_start
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "Byt den til"
+	line "en CYKEL!"
 
-	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	para "Bare rolig, min"
+	line "FEAROW FLYVER mig"
+	cont "overalt!"
 
-	para "So, I don't need a"
-	line "BICYCLE!"
+	para "Så jeg har ikke brug"
+	line "for en CYKEL!"
 
-	para "I hope you like"
-	line "cycling!"
+	para "Jeg håber du kan"
+	line "lide at cykle!"
 	done
 
 FanClubNoStoryText::
-	text "Oh. Come back"
-	line "when you want to"
-	cont "hear my story!"
+	text "Åh. Kom tilbage"
+	line "når du vil høre"
+	cont "min historie!"
 	done
 
 FanClubChairFinalText::
-	text "Hello, <PLAYER>!"
+	text "Hej, <PLAYER>!"
 
-	para "Did you come see"
-	line "me about my"
-	cont "#MON again?"
+	para "Kom du for at"
+	line "høre om mine"
+	cont "#MON igen?"
 
-	para "No? Too bad!"
+	para "Nej? Ærgerligt!"
 	done
 
 FanClubBagFullText::
-	text "Make room for"
-	line "this!"
+	text "Gør plads til"
+	line "dette!"
 	done
 
 _FanClubText6::
-	text "Our Chairman is"
-	line "very vocal about"
+	text "Vores formand"
+	line "er meget vokal om"
 	cont "#MON."
 	done
 
 _FanClubText7::
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers!"
+	text "Lad os alle lytte"
+	line "høfligt til andre"
+	cont "trænere!"
 	done
 
 _FanClubText8::
-	text "If someone brags,"
-	line "brag right back!"
+	text "Hvis nogen praler,"
+	line "pral tilbage!"
 	done

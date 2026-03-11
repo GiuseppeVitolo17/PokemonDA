@@ -1,125 +1,125 @@
 _MtMoon3Text_49f24::
-	text "You want the"
+	text "Vil du have"
 	line "DOME FOSSIL?"
 	done
 
 _MtMoon3Text_49f64::
-	text "You want the"
+	text "Vil du have"
 	line "HELIX FOSSIL?"
 	done
 
 _MtMoon3Text_49f6f::
-	text "<PLAYER> got the"
+	text "<PLAYER> fik"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MtMoon3Text_49f7f::
-	text "Look, you've got"
-	line "no room for this.@"
+	text "Du har ikke"
+	line "plads til dette.@"
 	text_end
 
 _MtMoon3Text_49f85::
 	text "Hey, stop!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "Jeg fandt disse"
+	line "fossiler! De er"
+	cont "begge mine!"
 	done
 
 _MtMoon3Text_49f8a::
 	text "OK!"
-	line "I'll share!"
+	line "Jeg deler!"
 	prompt
 
 _MtMoon3Text_49f8f::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "Vi tager hver"
+	line "en!"
+	cont "Vær ikke grådig!"
 	done
 
 _MtMoon3Text_49f94::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
+	text "Langt væk, på"
+	line "CINNABAR ØEN,"
+	cont "er der et #MON-"
 	cont "LAB."
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "De forsker i"
+	line "at genoplive"
+	cont "fossiler."
 	done
 
 _MtMoon3Text_49f99::
-	text "All right. Then"
-	line "this is mine!@"
+	text "Okay. Så er"
+	line "denne min!@"
 	text_end
 
 _MtMoon3BattleText2::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "TEAM ROCKET vil"
+	line "finde fossilerne,"
+	cont "genoplive og sælge"
+	cont "dem for penge!"
 	done
 
 _MtMoon3EndBattleText2::
 	text "Urgh!"
-	line "Now I'm mad!"
+	line "Nu er jeg vred!"
 	prompt
 
 _MtMoon3AfterBattleText2::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "Du gjorde mig vred!"
+	line "TEAM ROCKET vil"
+	cont "sorte liste dig!"
 	done
 
 _MtMoon3BattleText3::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "Vi, TEAM ROCKET,"
+	line "er #MON-"
+	cont "gangstere!"
 	done
 
 _MtMoon3EndBattleText3::
-	text "I blew"
-	line "it!"
+	text "Jeg"
+	line "ødelagde det!"
 	prompt
 
 _MtMoon3AfterBattleText3::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "Pokkers! Mine"
+	line "associater vil ikke"
+	cont "tolerere dette!"
 	done
 
 _MtMoon3BattleText4::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Vi laver et"
+	line "stort job her!"
+	cont "Forsvind, unge!"
 	done
 
 _MtMoon3EndBattleText4::
-	text "So, you"
-	line "are good."
+	text "Så du"
+	line "er god."
 	prompt
 
 _MtMoon3AfterBattleText4::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "Hvis du finder et"
+	line "fossil, giv det"
+	cont "til mig og forsvind!"
 	done
 
 _MtMoon3BattleText5::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "Små børn"
+	line "skal lade"
+	cont "voksne være i fred!"
 	done
 
 _MtMoon3EndBattleText5::
-	text "I'm"
-	line "steamed!"
+	text "Jeg er"
+	line "dampet!"
 	prompt
 
 _MtMoon3AfterBattleText5::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "#MON levede"
+	line "her længe før"
+	cont "mennesker kom."
 	done

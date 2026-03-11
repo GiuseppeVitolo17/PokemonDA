@@ -71,67 +71,67 @@ _ReceivedCascadeBadgeText::
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Jeg er mere end"
+	line "god nok til dig!"
 
-	para "MISTY can wait!"
+	para "MISTY kan vente!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text "Du"
+	line "overvældede mig!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Du skal møde"
+	line "andre trænere for at"
+	cont "finde ud af hvor gode"
+	cont "du virkelig er."
 	done
 
 _CeruleanGymBattleText2::
 	text "Splash!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Jeg er først!"
+	line "Lad os gøre det!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "Det"
+	line "kan ikke være!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "MISTY bliver ved med"
+	line "at blive bedre!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "Hun taber ikke til"
+	line "en som dig!"
 	done
 
 _CeruleanGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Mester i"
+	line "blomstring!"
 
-	para "Here's my advice!"
+	para "Her er mit råd!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "LEDEREN, MISTY,"
+	line "er en pro der bruger"
+	cont "vand-#MON!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Du kan dræne alt"
+	line "deres vand med"
+	cont "plante-#MON!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "Eller zap dem med"
+	line "elektricitet!"
 	done
 
 _CeruleanGymGuidePostBattleText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Du slog MISTY!"
+	line "Hvad sagde jeg?"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Du og mig, unge,"
+	line "vi er et ret"
+	cont "godt team!"
 	done

@@ -1,41 +1,41 @@
 _PokemonTower5Text1::
-	text "Come, child! I"
-	line "sealed this space"
-	cont "with white magic!"
+	text "Kom, barn! Jeg"
+	line "forseglede dette"
+	cont "sted med hvid magi!"
 
-	para "You can rest here!"
+	para "Du kan hvile her!"
 	done
 
 _PokemonTower5BattleText1::
-	text "Give...me..."
-	line "your...soul..."
+	text "Giv...mig..."
+	line "din...sjæl..."
 	done
 
 _PokemonTower5EndBattleText1::
-	text "Gasp!"
+	text "Gisp!"
 	prompt
 
 _PokemonTower5AfterBattleText1::
-	text "I was under"
-	line "possession!"
+	text "Jeg var"
+	line "besat!"
 	done
 
 _PokemonTower5BattleText2::
-	text "You...shall..."
-	line "join...us..."
+	text "Du...skal..."
+	line "følge...os..."
 	done
 
 _PokemonTower5EndBattleText2::
-	text "What"
-	line "a nightmare!"
+	text "Hvilken"
+	line "mareridt!"
 	prompt
 
 _PokemonTower5AfterBattleText2::
-	text "I was possessed!"
+	text "Jeg var besat!"
 	done
 
 _PokemonTower5BattleText3::
-	text "Zombies!"
+	text "Zombier!"
 	done
 
 _PokemonTower5EndBattleText3::
@@ -43,8 +43,8 @@ _PokemonTower5EndBattleText3::
 	prompt
 
 _PokemonTower5AfterBattleText3::
-	text "I regained my"
-	line "senses!"
+	text "Jeg fik mine"
+	line "sanser tilbage!"
 	done
 
 _PokemonTower5BattleText4::
@@ -57,15 +57,15 @@ _PokemonTower5EndBattleText4::
 	prompt
 
 _PokemonTower5AfterBattleText4::
-	text "I fell to evil"
-	line "spirits despite"
-	cont "my training!"
+	text "Jeg faldt for onde"
+	line "ånder trods"
+	cont "min træning!"
 	done
 
 _PokemonTower5Text7::
-	text "Entered purified,"
-	line "protected zone!"
+	text "Indtrådt i renset,"
+	line "beskyttet zone!"
 
-	para "<PLAYER>'s #MON"
-	line "are fully healed!"
+	para "<PLAYER>s #MON"
+	line "er fuldt helbredt!"
 	done

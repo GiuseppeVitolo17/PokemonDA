@@ -1,14 +1,18 @@
-# Pokémon Red and Blue [![Build Status][ci-badge]][ci]
+# Pokémon Red og Blue [![Build Status][ci-badge]][ci]
 
-Dette er en disassembly af Pokémon Red og Blue, fuldt oversat til **dansk**. Projektet bygger følgende ROM-filer:
+**Lær dansk med Pokémon.** — Dette er en disassembly af Pokémon Red og Blue, fuldt oversat til **dansk**. Spil de klassiske Game Boy-spil på dansk og øv sproget.
 
-- **pokered.gbc** — Pokémon Red (dansk) `sha1: (clean build of this repo)`
-- **pokeblue.gbc** — Pokémon Blue (dansk) `sha1: (clean build of this repo)`
-- **pokeblue_debug.gbc** — Pokémon Blue debug-build (dansk) `sha1: (clean build of this repo)`
-- **pokered.patch** — BPS-patch til Pokémon Red `sha1: (clean build of this repo)`
-- **pokeblue.patch** — BPS-patch til Pokémon Blue `sha1: (clean build of this repo)`
+## ROM-filer (ren byg af dette repo)
 
-For at sætte repositoryet op, se [**INSTALL.md**](INSTALL.md).
+| Fil | Beskrivelse | SHA1 |
+|-----|-------------|------|
+| **pokered.gbc** | Pokémon Red (dansk) | `8227678195e9c72b8a2031ef417ab2c2a810d3fb` |
+| **pokeblue.gbc** | Pokémon Blue (dansk) | `41e6a30407e9625761c87c0f4a1f960f913886c1` |
+| **pokeblue_debug.gbc** | Pokémon Blue debug (dansk) | `fe0c11f1b57c9446251814730dfef369ed9046ef` |
+| **pokered.patch** | BPS-patch til Pokémon Red | *(valgfri; se INSTALL)* |
+| **pokeblue.patch** | BPS-patch til Pokémon Blue | *(valgfri; se INSTALL)* |
+
+For at sætte repositoryet op og bygge, se [**INSTALL.md**](INSTALL.md).
 
 Baseret på [pret/pokered](https://github.com/pret/pokered). Bygget med [RGBDS](https://github.com/gbdev/rgbds).
 
@@ -43,8 +47,8 @@ Andre disassembly-projekter:
 [symbols]: https://github.com/pret/pokered/tree/symbols
 [discord]: https://discord.gg/d5dubZ3
 [irc]: https://web.libera.chat/?#pret
-[ci]: https://github.com/pret/pokered/actions
-[ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+[ci]: https://github.com/GiuseppeVitolo17/PokemonDA/actions
+[ci-badge]: https://github.com/GiuseppeVitolo17/PokemonDA/actions/workflows/main.yml/badge.svg
 
 ---
 

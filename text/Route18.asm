@@ -1,7 +1,7 @@
 _Route18BattleText1::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "Jeg tjekker altid"
+	line "hvert græsområde"
+	cont "for nye #MON."
 	done
 
 _Route18EndBattleText1::
@@ -9,40 +9,40 @@ _Route18EndBattleText1::
 	prompt
 
 _Route18AfterBattleText1::
-	text "I wish I had a"
-	line "BIKE!"
+	text "Jeg ville ønske jeg"
+	line "havde en CYKEL!"
 	done
 
 _Route18BattleText2::
 	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	line "Hvordan kan du lide"
+	cont "min fuglekald?"
 	done
 
 _Route18EndBattleText2::
-	text "I"
-	line "had to bug you!"
+	text "Jeg"
+	line "måtte drille dig!"
 	prompt
 
 _Route18AfterBattleText2::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "Jeg samler også hav-"
+	line "#MON i"
+	cont "weekenden!"
 	done
 
 _Route18BattleText3::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "Dette er mit område!"
+	line "Forsvind herfra!"
 	done
 
 _Route18EndBattleText3::
-	text "Darn!"
+	text "Sørens!"
 	prompt
 
 _Route18AfterBattleText3::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "Dette er mit"
+	line "yndlings-#MON-"
+	cont "jagtområde!"
 	done
 
 _Route18Text4::
@@ -53,6 +53,6 @@ _Route18Text4::
 
 _Route18Text5::
 	text "CYKELVEJEN"
-	line "No pedestrians"
-	cont "permitted!"
+	line "Fodgængere"
+	cont "ikke tilladt!"
 	done

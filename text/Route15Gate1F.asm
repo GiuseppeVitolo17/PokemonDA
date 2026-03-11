@@ -1,7 +1,7 @@
 _Route15GateText1::
-	text "Are you working"
-	line "on a #DEX?"
+	text "Arbejder du på"
+	line "en #DEX?"
 
-	para "PROF.OAK's AIDE"
-	line "came by here."
+	para "PROF.OAKs assistent"
+	line "kom forbi her."
 	done

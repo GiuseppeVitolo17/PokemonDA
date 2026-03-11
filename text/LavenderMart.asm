@@ -1,30 +1,29 @@
 _LavenderMartText2::
-	text "I'm searching for"
-	line "items that raise"
-	cont "the abilities of"
-	cont "#MON during a"
-	cont "single battle."
+	text "Jeg leder efter"
+	line "ting der øger"
+	cont "#MONs evner"
+	cont "i en enkelt kamp."
 
 	para "X ATTACK, X"
 	line "DEFEND, X SPEED"
-	cont "and X SPECIAL are"
-	cont "what I'm after."
+	cont "og X SPECIAL er"
+	cont "hvad jeg mangler."
 
-	para "Do you know where"
-	line "I can get them?"
+	para "Ved du hvor jeg"
+	line "kan få dem?"
 	done
 
 _LavenderMartReviveText::
-	text "You know REVIVE?"
-	line "It revives any"
-	cont "fainted #MON!"
+	text "Kender du REVIVE?"
+	line "Den vækker ethvert"
+	cont "besvimet #MON!"
 	done
 
 _LavenderMartNuggetText::
-	text "I found a NUGGET"
-	line "in the mountains."
+	text "Jeg fandt en GULDKLUMP"
+	line "i bjergene."
 
-	para "I thought it was"
-	line "useless, but it"
-	cont "sold for ¥5000!"
+	para "Jeg troede den var"
+	line "ubrugelig, men den"
+	cont "solgte for ¥5000!"
 	done
