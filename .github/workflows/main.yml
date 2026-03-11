@@ -19,9 +19,15 @@ jobs:
           ref: v0.6.0
           repository: gbdev/rgbds
 
-      - name: Install rgbds
+      - name: Install rgbds build dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential bison libpng-dev pkg-config
+
+      - name: Build and install rgbds
         working-directory: rgbds
         run: |
+          make -j$(nproc)
           sudo make install
 
       - name: Remove rgbds
